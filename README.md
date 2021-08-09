@@ -5,6 +5,7 @@ All credits are included in the scripts if room is available.
 Otherwise they will be listed in the listings below.
 
 | Script Name                    |  Script Description                       |      Creator     |
+| --- | --- | --- |
 | AutomatedApproach.yolol        |  Automatically approach asteroid with RF  |      Mutleyx     |
 | AutomatedGenerator.yolol       |  Automatic Generator Rate script          |     FrozenByte   |
 | FlightTime.yolol               |  Displays Fuel and Propellent Time        |      Unknown     |
