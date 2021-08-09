@@ -6,7 +6,7 @@ Otherwise they will be listed in the listings below.
 
 | Script Name                    |  Script Description                       |      Creator     |
 | --- | --- | --- |
-| AutomatedApproach.yolol        |  Automatically approach asteroid with RF  |      Mutleyx     |
+| AutomatedApproach.yolol        |  Automatically approach asteroid with a rangefinder  |      Mutleyx     |
 | AutomatedGenerator.yolol       |  Automatic Generator Rate script          |     FrozenByte   |
 | FlightTime.yolol               |  Displays Fuel and Propellent Time        |      Unknown     |
 | FuelandPropPercentage.yolol    |  Fuel and propellent % on text display    |   <C:\Bluelight> |
