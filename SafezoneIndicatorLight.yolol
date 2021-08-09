@@ -1,0 +1,5 @@
+Saf=:insideSafeZone :SZWarning=War
+if Saf>0 then War=0 else War=1 end goto1           
+// Alternative: if Saf !=0 then War=0 else War=1 end goto 1
+// Name your warning light SZWarning
+// Safezone Indicator Light by <C:\BlueLight>

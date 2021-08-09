@@ -1,0 +1,4 @@
+up="Data :o\n " Ba=(:Battery/100) Pr=(:Propellant/40000)
+:o=up+"\nElectricity\n"+Ba+"%\nPropellant\n"+Pr+"%" goto1
+// Text Display name should be set to "o"
+// Written by <C:\Bluelight>
