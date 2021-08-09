@@ -4,6 +4,8 @@ This is my ever growing list of Yolol Scripts.
 All credits are included in the scripts if room is available.  
 Otherwise they will be listed in the listings below.  
   
+As much as possible I have added setup guides to these scripts as I have collected them  
+  
 | Script Name                    |  Script Description                       |      Creator     |
 | --- | --- | --- |
 | AutomatedApproach.yolol        |  Automatically approach asteroid with a rangefinder  |      Mutleyx     |
