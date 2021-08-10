@@ -18,3 +18,5 @@ Inside each folder should be a Readme.md with setup instructions.
   
 If your script is here and you are not credited, or the credit is wrong, please post under issues or reach me on Discord.  
 If you wish to add your script here, Message me on discord @ Malankore#9040  
+
+If your script is here and you do not want it here, please contact me on Discord.
