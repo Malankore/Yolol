@@ -10,9 +10,9 @@ Inside each folder should be a Readme.md with setup instructions.
 | --- | --- | --- |
 | AutomatedApproach        |  Automatically approach asteroid with a rangefinder  |      Mutleyx     |
 | AutomatedGenerator       |  Automatic Generator Rate script          |     FrozenByte   |
-|ISAN Deltas|Display your ISAN Coordinate Deltas on a text display|Mutleyx & Agonarch|
 | FlightTime               |  Displays Fuel and Propellent Time on a text display        |      Unknown     |
 | FuelandPropPercentage    |  Fuel and propellent % on a single text display    |   <C:\Bluelight> |
+|ISAN Deltas|Display your ISAN Coordinate Deltas on a text display|Mutleyx & Agonarch|
 | LaserPulse               |  Pulse Mining Lasers to save power        |      Mutleyx     |
 | MatScanVolume            |  Material scanner with Ore and Volume(working as of 8/9/21)     | Vintage Shipyards|
 | SafezoneIndicatorLight   |  Pulse a light when outside of the safezone   |  <C:\Bluelight>  |
