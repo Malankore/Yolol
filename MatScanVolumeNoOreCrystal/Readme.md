@@ -1,4 +1,5 @@
 # Material Scanner with Volume Cleaner Version
+![](images/msvnoc.png)  
 Created by Vintage Shipyard  
 Modified by <c:\Malankore> with assistance from <C:\Xyberviri>
   
