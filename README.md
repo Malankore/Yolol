@@ -1,9 +1,6 @@
 # Yolol-Collection
-This is my ever growing list of Yolol Scripts.  
-**Unless otherwise listed, these are not my own creations.**  
-All credits are included in the scripts if room is available.  
-Otherwise they will be listed in the listings below.  
-  
+This is an ever growing list of Yolol Scripts.  
+**All scripts submitted will have thier authors posted below.**  
 Inside each folder should be a Readme.md with setup instructions.  
   
 | Script Name                    |  Script Description                       |      Creator     |
