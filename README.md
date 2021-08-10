@@ -1,5 +1,5 @@
 # Yolol-Collection
-This is an ever growing list of Yolol Scripts.  
+This is an ever growing list of YOLOL Scripts.  
 **All scripts submitted will have thier authors posted below.**  
 Inside each folder should be a Readme.md with setup instructions.  
   
