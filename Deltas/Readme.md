@@ -2,9 +2,9 @@
 Created by Mutleyx & Agonarch 
   
 **To use this script you will need the following:**  
-1x Text Display
-1x Adv. Yolol Chip
-1x Memory Chip (Memory Module for ISAN)
+1x Text Display  
+1x Adv. Yolol Chip  
+1x Memory Chip (Memory Module for ISAN)  
   
 **On your Adv. Yolol Chip:**  
 Enter the code included in Deltas.yolol  
