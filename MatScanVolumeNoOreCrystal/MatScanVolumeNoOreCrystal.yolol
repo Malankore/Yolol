@@ -1,0 +1,5 @@
+e=" Ore" l=" Crystal"
+if :Scanner>0 then goto4 else end goto3
+:Scanning="Scanner Offline" goto2
+:Scan=1 :idx=0 L1=(:Mat-e-l)+"\n"+:Vol+" kv"
+:idx=1 L2="\n"+(:Mat-e-l)+"\n"+:Vol+" kv" :Scanning=L1+L2 goto2

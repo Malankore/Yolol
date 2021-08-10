@@ -11,7 +11,8 @@ Inside each folder should be a Readme.md with setup instructions.
 | FuelandPropPercentage    |  Fuel and propellent % on a single text display    |   <C:\Bluelight> |
 |ISANDeltas|Display your ISAN Coordinate Deltas on a text display|Mutleyx & Agonarch|
 | LaserPulse               |  Pulse Mining Lasers to save power        |      Mutleyx     |
-| MatScanVolume            |  Material scanner with Ore and Volume(working as of 8/9/21)     | Vintage Shipyards|
+| MatScanVolume            |  Material scanner with Ore and Volume     | Vintage Shipyards|
+| MatScanVolumeNoOreCrystal|  Material scanner with Ore and Volume without Ore or Crystal Labels    | Vintage Shipyards|
 | SafezoneIndicatorLight   |  Pulse a light when outside of the safezone   |  <C:\Bluelight>  |
   
 If your script is here and you are not credited, or the credit is wrong, please post under issues or reach me on Discord.  
