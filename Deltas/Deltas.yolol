@@ -1,0 +1,4 @@
+dx=:XX-XX2 lx=:XX  dy=:YY-YY2 ly=:YY  dz=:ZZ-ZZ2 lz=:ZZ
+XX2=:XX YY2=:YY ZZ2=:ZZ :Deltas = "\ndx="+dx+"\ndy="+dy+"\ndz="+dz
+if :CL == 0 then goto3 end goto1 end
+// Show ISAN deltas -Mutleyx -Agonarch
