@@ -1,7 +1,8 @@
-# Automated Generator
+# ISAN Deltas Script
 Created by Mutleyx & Agonarch 
   
 **To use this script you will need the following:**  
+1x Text Display
 1x Adv. Yolol Chip
 1x Memory Chip (Memory Module for ISAN)
   
