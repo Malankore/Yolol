@@ -12,7 +12,7 @@ Inside each folder should be a Readme.md with setup instructions.
 |ISANDeltas|Display your ISAN Coordinate Deltas on a text display|Mutleyx & Agonarch|
 | LaserPulse               |  Pulse Mining Lasers to save power        |      Mutleyx     |
 | MatScanVolume            |  Material scanner with Ore and Volume     | Vintage Shipyards|
-| MatScanVolumeNoOreCrystal|  Material scanner with Ore and Volume without Ore or Crystal Labels    | Vintage & <C:\Malankore>|
+| MatScanVolumeNoOreCrystal|  Material scanner with Ore and Volume without Ore or Crystal Labels    | Vintage & Malankore |
 | SafezoneIndicatorLight   |  Pulse a light when outside of the safezone   |  <C:\Bluelight>  |
   
 If your script is here and you are not credited, or the credit is wrong, please post under issues or reach me on Discord.  
